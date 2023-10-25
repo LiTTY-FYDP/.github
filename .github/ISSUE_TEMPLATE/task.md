@@ -15,6 +15,6 @@ assignees: iExalt
 
 - Point form step-by-step guide to tackling the issue
 
-## Acceptance Critera
+## Acceptance Criteria
 
 - Point form expectations for the completion of the issue
